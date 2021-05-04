@@ -2,7 +2,9 @@
 This repo contains sample test cases for pagination.
 
 ## Overview
-This is a testNG maven project.
+This is a testNG maven project. Dependencies 
+
+![Dependencies](Dependencies.PNG)
 
 ## Adding test cases
 You can either create a new class or add new @Tests to the exiting testcases class. Please continue to use Extent reports for test case validations and results.
